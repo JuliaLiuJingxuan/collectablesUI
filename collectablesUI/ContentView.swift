@@ -1,17 +1,11 @@
-//
-//  ContentView.swift
-//  collectablesUI
-//
-//  Created by h2025002 on 2024/12/10.
-//
-
 import SwiftUI
 import SwiftData
 
 struct ContentView: View {
     @Environment(\.modelContext) private var modelContext
     @Query private var items: [Item]
-
+    
+    // Hello Git
     var body: some View {
         NavigationSplitView {
             List {

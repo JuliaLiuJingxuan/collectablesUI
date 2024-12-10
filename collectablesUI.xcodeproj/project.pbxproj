@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		119DC6EF2D07B9E9005EDC3E /* collectablesUI */ = {
+		119DC72D2D07BADC005EDC3E /* collectablesUI */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = collectablesUI;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		119DC6E42D07B9E9005EDC3E = {
 			isa = PBXGroup;
 			children = (
-				119DC6EF2D07B9E9005EDC3E /* collectablesUI */,
+				119DC72D2D07BADC005EDC3E /* collectablesUI */,
 				119DC6EE2D07B9E9005EDC3E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				119DC6EF2D07B9E9005EDC3E /* collectablesUI */,
+				119DC72D2D07BADC005EDC3E /* collectablesUI */,
 			);
 			name = collectablesUI;
 			packageProductDependencies = (
